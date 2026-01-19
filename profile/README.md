@@ -108,6 +108,10 @@ Early. Experimental. Intentionally incomplete.
 If openness built the modern internet,
 maybe it can help build humanity’s future beyond Earth.
 
+## Logo
+
+![Open Space Federation](../media/open-space-logo-primary.png)
+
 ---
 
 **Keep going.**
