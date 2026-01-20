@@ -1,4 +1,4 @@
-## Open Space Federation — Logo
+## [Open Space Federation](https://github.com/Open-Space-Federation) — Logo
 
 ![Open Space Federation](open-space-logo-primary.png)
 
