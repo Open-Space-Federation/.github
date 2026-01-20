@@ -1,6 +1,6 @@
-# Open Space Federation
+## Open Space Federation — Logo
 
-## Logo
+![Open Space Federation](open-space-logo-primary.png)
 
 The Open Space Federation logo is inspired by the wings of the propeller seed.
 
@@ -13,6 +13,3 @@ The logo’s dual form also reflects the dual meaning of “open space”:
 - and an open, loosely connected space of ideas and interested individuals, rather than a centralized organization
 
 Open Space Federation exists to explore whether openness — which already shapes software, hardware, and knowledge — could someday help humanity spread out into space.
-
-![Open Space Federation](open-space-logo-primary.png)
-
