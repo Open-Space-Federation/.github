@@ -112,6 +112,8 @@ maybe it can help build humanity’s future beyond Earth.
 
 ![Open Space Federation](../media/open-space-logo-primary.png)
 
+[About the logo](../media/README.md)
+
 ---
 
 **Keep going.**
